@@ -1,11 +1,11 @@
 const users=[
   {
-      "username": "eventuser",
+      "username": "eventuser1",
       "password": "password",
       "type": "event"
   },
   {
-      "username": "eventuser1",
+      "username": "eventuser2",
       "password": "password",
       "type": "event"
   },
